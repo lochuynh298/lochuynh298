@@ -4,6 +4,8 @@
 **lochuynh298/lochuynh298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+📡 Want to reach me 
+[LINKEDIN](https://www.linkedin.com/in/loc-huynh-2406631b0/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
