@@ -3,6 +3,8 @@
 My name is Loc Huynh. As an international student, I spent four years in Sydney, Australia, where I graduated from the Australian Academy of Commerce with a degree in Business Management. Following my studies, I returned to Vietnam.
 
  I have held a Sales Administration position. My responsibilities extended beyond the typical processing of sales orders, invoices, and tracking order status to include a significant focus on data analysis. I was responsible for tasks such as calculating monthly salaries, creating data visualizations in dashboard format for management presentations on monthly and quarterly trends, and collaborating with the Marketing team to derive actionable insights. This experience highlighted the need for me to enhance my technical skillset, prompting me to dedicate six months to self-study in SQL, Power BI, and Python, using resources from Unigap.
+
+I've always believed that data is key to making smart decisions, which is why I've developed a keen interest in data analytics. I'm excited to share my projects with you all and explore how we can leverage data to improve decision-making together!
  
 ## 📡 Want to reach me 
 
